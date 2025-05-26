@@ -1,5 +1,5 @@
  i completed my task using kali linux machine .
- first i check the ip address of the system
+ first i check the ip address of the system.
  my ip address range is 192.168.146.0/24
  later i using namp for network scanning.
  i performed TCP SYN scan for entire network.
